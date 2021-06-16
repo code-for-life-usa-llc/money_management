@@ -1,0 +1,17 @@
+body  {
+    background-image: url(gray.jpg);
+    background-size: cover;
+    background-color: gray;
+}
+h1{
+    color:lightsteelblue;
+    width: 600px;
+}
+
+p{
+    color: white;
+}
+
+#mm{
+    background-color: gray;
+}
